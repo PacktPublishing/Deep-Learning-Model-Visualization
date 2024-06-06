@@ -1,0 +1,11 @@
+Employee_ID,Name,Position,Manager_ID
+1,Alice Johnson,CEO,
+2,Bob Smith,CTO,1.0
+3,Carol White,CFO,1.0
+4,David Brown,VP of Engineering,2.0
+5,Eve Green,VP of Finance,3.0
+6,Frank Black,Engineering Manager,4.0
+7,Grace Blue,Lead Engineer,6.0
+8,Helen Red,Software Engineer,7.0
+9,Ian Yellow,Software Engineer,7.0
+10,Jack Pink,Finance Analyst,5.0
